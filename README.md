@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NabeelRahman-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1929-concatenation-of-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3028-ant-on-the-boundary](https://github.com/NabeelRahman-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3028-ant-on-the-boundary](https://github.com/NabeelRahman-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## String
 |  |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NabeelRahman-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Sorting
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
