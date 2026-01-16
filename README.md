@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0507-perfect-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/NabeelRahman-07/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/NabeelRahman-07/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3028-ant-on-the-boundary](https://github.com/NabeelRahman-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
