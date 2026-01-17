@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
