@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NabeelRahman-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1528-shuffle-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3028-ant-on-the-boundary](https://github.com/NabeelRahman-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/NabeelRahman-07/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/1528-shuffle-string) |
 ## Prefix Sum
 |  |
 | ------- |
