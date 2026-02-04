@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NabeelRahman-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1528-shuffle-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/NabeelRahman-07/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3028-ant-on-the-boundary](https://github.com/NabeelRahman-07/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/NabeelRahman-07/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/1528-shuffle-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/NabeelRahman-07/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
