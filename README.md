@@ -95,9 +95,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NabeelRahman-07/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/NabeelRahman-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/NabeelRahman-07/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NabeelRahman-07/Leetcode/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/NabeelRahman-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/NabeelRahman-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
