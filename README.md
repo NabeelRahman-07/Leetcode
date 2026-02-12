@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/NabeelRahman-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0507-perfect-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NabeelRahman-07/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NabeelRahman-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NabeelRahman-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NabeelRahman-07/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/NabeelRahman-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/NabeelRahman-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/NabeelRahman-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
