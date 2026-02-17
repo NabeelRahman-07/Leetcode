@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NabeelRahman-07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NabeelRahman-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NabeelRahman-07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/NabeelRahman-07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -113,17 +114,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NabeelRahman-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NabeelRahman-07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NabeelRahman-07/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/NabeelRahman-07/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NabeelRahman-07/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NabeelRahman-07/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/NabeelRahman-07/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NabeelRahman-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/NabeelRahman-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NabeelRahman-07/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/NabeelRahman-07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/NabeelRahman-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NabeelRahman-07/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
