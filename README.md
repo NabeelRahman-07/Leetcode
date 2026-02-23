@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NabeelRahman-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NabeelRahman-07/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NabeelRahman-07/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/NabeelRahman-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/NabeelRahman-07/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NabeelRahman-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/NabeelRahman-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NabeelRahman-07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/NabeelRahman-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NabeelRahman-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/NabeelRahman-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
