@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NabeelRahman-07/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NabeelRahman-07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/NabeelRahman-07/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/NabeelRahman-07/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NabeelRahman-07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NabeelRahman-07/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NabeelRahman-07/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/NabeelRahman-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NabeelRahman-07/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/NabeelRahman-07/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NabeelRahman-07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NabeelRahman-07/Leetcode/tree/master/0141-linked-list-cycle) |
